@@ -1,0 +1,1 @@
+public class tc {    public static void main(String[] args) {        int n = 6;        int a = 1;        for (int i = 1; i < n/2; i = i * 2){            for (int j = i; j  < i + 100; j++){                for (int k = 1; k < n; k = k * 2)                    System.out.println(a++);            }        }    }}
