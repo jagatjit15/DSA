@@ -6,8 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="825b4a5f-44e3-4d4c-a945-c740bb49839c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SortingZeroOneTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/SortingZeroOneTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddTwoLinkedList.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/DSA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA/AddTwoLinkedList.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,9 +43,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.AddTwoLinkedList">
+  <component name="RunManager" selected="Application.ContainerArea">
     <configuration name="AddTwoLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AddTwoLinkedList" />
+      <module name="DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContainerArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ContainerArea" />
       <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,20 +79,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackUsingQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StackUsingQueue" />
-      <module name="DSA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ContainerArea" />
         <item itemvalue="Application.AddTwoLinkedList" />
         <item itemvalue="Application.MatrixAntiClock90Deg" />
         <item itemvalue="Application.SortingZeroOneTwo" />
         <item itemvalue="Application.NearestSmallToLeft" />
-        <item itemvalue="Application.StackUsingQueue" />
       </list>
     </recent_temporary>
   </component>

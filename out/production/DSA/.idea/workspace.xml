@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="825b4a5f-44e3-4d4c-a945-c740bb49839c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SortingZeroOneTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/SortingZeroOneTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddTwoLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/AddTwoLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,14 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MatrixAntiClock90Deg">
+  <component name="RunManager" selected="Application.AddTwoLinkedList">
+    <configuration name="AddTwoLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AddTwoLinkedList" />
+      <module name="DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MatrixAntiClock90Deg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MatrixAntiClock90Deg" />
       <module name="DSA" />
@@ -51,13 +58,6 @@
     </configuration>
     <configuration name="NearestSmallToLeft" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NearestSmallToLeft" />
-      <module name="DSA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QueueUsingTwoStacks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QueueUsingTwoStacks" />
       <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AddTwoLinkedList" />
         <item itemvalue="Application.MatrixAntiClock90Deg" />
         <item itemvalue="Application.SortingZeroOneTwo" />
         <item itemvalue="Application.NearestSmallToLeft" />
         <item itemvalue="Application.StackUsingQueue" />
-        <item itemvalue="Application.QueueUsingTwoStacks" />
       </list>
     </recent_temporary>
   </component>
